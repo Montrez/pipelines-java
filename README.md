@@ -1,3 +1,4 @@
+[![Build Status](https://montrezcox.visualstudio.com/MyFirstProject/_apis/build/status/Montrez.pipelines-java?branchName=master)](https://montrezcox.visualstudio.com/MyFirstProject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
